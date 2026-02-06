@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Pytest cache
+.pytest_cache/
+
+# OS files
+.DS_Store
